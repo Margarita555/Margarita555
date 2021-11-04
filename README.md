@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Margarita
 
-## I'm a Front-End Developer
+### I'm a Front-End Developer
 
 - I like ice-cream 🍨
 - I like riding a bike 🚴‍♀️
