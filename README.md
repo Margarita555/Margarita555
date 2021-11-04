@@ -4,7 +4,8 @@
 
 - I like ice-cream 🍨
 - I like riding a bike 🚴‍♀️
-  and I like coding of course 💻!
+
+#### and I like coding of course 💻!
 
 ### My values:
 
