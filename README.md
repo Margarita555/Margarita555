@@ -2,9 +2,9 @@
 
 # I'm a Front-End Developer
 
-- I like ice-cream :ice-cream
-- I like riding a bike :bike
-  and I like coding of course :laptop!
+- I like ice-cream 🍨
+- I like riding a bike 🚴‍♀️
+  and I like coding of course 💻!
 
 ### My values:
 
