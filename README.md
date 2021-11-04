@@ -9,9 +9,8 @@
 
 ### My values:
 
-- ✨ Learn fast
-- ✨ Achievement
-- ✨ Creativity
+- ✨ quality result
+- ✨ creativity
 
 ## Languages and Tools:
 
